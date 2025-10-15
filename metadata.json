@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Pro",
+  "description": "An AI-powered photo editing application that analyzes image quality, enhances resolution, and applies professional styles using the Gemini API.",
+  "requestFramePermissions": []
+}
